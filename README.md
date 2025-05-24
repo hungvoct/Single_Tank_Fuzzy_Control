@@ -21,4 +21,8 @@ This project implements a hybrid fuzzy-logic and PI controller on an STM32F411VE
 ## Prerequisites
 - STM32CubeIDE (version 1.8.0 or later)  
 - STM32CubeMX for peripheral configuration (optional)  
-- ST-LINK debugger/programmer  
+- ST-LINK debugger/programmer
+
+## Video
+Watch my implementation video here: https://drive.google.com/file/d/188v5voxnT75FDu0BoV7C0SMWsRcZnLFV/view?usp=drive_link
+
