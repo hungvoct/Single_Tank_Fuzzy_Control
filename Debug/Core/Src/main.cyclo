@@ -1,0 +1,16 @@
+../Core/Src/main.c:82:5:main	1
+../Core/Src/main.c:141:6:SystemClock_Config	3
+../Core/Src/main.c:187:13:MX_TIM1_Init	6
+../Core/Src/main.c:246:13:MX_TIM2_Init	6
+../Core/Src/main.c:305:13:MX_TIM3_Init	4
+../Core/Src/main.c:350:13:MX_GPIO_Init	1
+../Core/Src/main.c:451:7:fuzzyController	3
+../Core/Src/main.c:482:7:hlt_hinhthang	9
+../Core/Src/main.c:492:7:hlt_tamgiac	7
+../Core/Src/main.c:501:7:sum_array	3
+../Core/Src/main.c:515:7:MIN	2
+../Core/Src/main.c:522:7:rule	2
+../Core/Src/main.c:533:7:Saturation	3
+../Core/Src/main.c:542:6:Motor_Control	2
+../Core/Src/main.c:558:6:HAL_TIM_PeriodElapsedCallback	5
+../Core/Src/main.c:592:6:Error_Handler	1
