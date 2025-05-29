@@ -9,7 +9,7 @@ This project implements a hybrid fuzzy-logic and PI controller on an STM32F411VE
 - Hardware implementation on STM32F411VET6  
 - Fuzzy rule base for non-linear error handling  
 - PI controller component to remove steady-state offset  
-- Sensor interface via ultrasonic distance module (HC-SR04)  
+- Sensor interface via ultrasonic distance module (SRF05)  
 - PWM output to control a proportional valve  
 - Configurable fuzzification and PI parameters in firmware  
 
