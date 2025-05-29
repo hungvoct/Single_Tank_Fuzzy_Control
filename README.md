@@ -6,7 +6,7 @@ Fuzzy-PI controller to control the liquid level of a single tank using STM32F4 h
 This project implements a hybrid fuzzy-logic and PI controller on an STM32F411VET6 microcontroller to maintain the liquid level in a single tank at a desired setpoint. The firmware reads the tank level via an ultrasonic sensor, applies fuzzy inference rules for non-linear tuning, and adds a PI component to eliminate steady-state error. The resulting control signal drives a PWM‐controlled valve.
 
 ## Features
-- Hardware implementation on STM32F407VET6  
+- Hardware implementation on STM32F411VET6  
 - Fuzzy rule base for non-linear error handling  
 - PI controller component to remove steady-state offset  
 - Sensor interface via ultrasonic distance module (HC-SR04)  
